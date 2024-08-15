@@ -1,0 +1,4 @@
+本项目使用springboot+vue进行开发，完成了用户身份的管理，图书的管理，以及用户借阅书籍的记录显示。
+springboot中使用mabatis-plue，lomkok，websocket等依赖进行开发
+vue中使用了element插件进行快速开发
+在后端项目中注释了一条httpurl，启用之后可以使用内网穿透软件使得项目可被远程访问
