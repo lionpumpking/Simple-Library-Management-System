@@ -1,0 +1,6 @@
+BEGIN;
+INSERT inFO 'user'(20,'sa','超级管理员','123',1,'111',0,,1);
+COMMIT;
+
+CREATE TABLE 'menu'(
+'id' int(11) NOT NULL,

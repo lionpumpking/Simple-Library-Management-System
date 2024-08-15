@@ -1,0 +1,25 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<!DOCTYPE configuration-->
+<!--        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"-->
+<!--        "http://mybatis.org/dtd/mybatis-3-config.dtd">-->
+<!--&lt;!&ndash;configuration核心配置文件&ndash;&gt;-->
+<!--&lt;!&ndash;连接数据库&ndash;&gt;-->
+<!--<configuration>-->
+<!--&lt;!&ndash;    <environments default="development">&ndash;&gt;-->
+<!--&lt;!&ndash;        <environment id="development">&ndash;&gt;-->
+<!--&lt;!&ndash;            <transactionManager type="JDBC"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <dataSource type="POOLED" >&ndash;&gt;-->
+<!--&lt;!&ndash;                <property name="url" value="jdbc:mysql://127.0.0.1:3306/testdb?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;                <property name="username" value="root"/>&ndash;&gt;-->
+<!--&lt;!&ndash;                <property name="password" value="root"/>&ndash;&gt;-->
+<!--&lt;!&ndash;                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            </dataSource>&ndash;&gt;-->
+<!--&lt;!&ndash;        </environment>&ndash;&gt;-->
+<!--&lt;!&ndash;    </environments>&ndash;&gt;-->
+<!--&lt;!&ndash;    <mappers>&ndash;&gt;-->
+<!--&lt;!&ndash;        <mapper resource="generator/StudentMapper.xml"/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </mappers>&ndash;&gt;-->
+<!--    <mappers>-->
+<!--        <mapper resource="com/myproject/my_demo/demos/Xml/Mapper.xml"/>-->
+<!--    </mappers>-->
+<!--</configuration>-->

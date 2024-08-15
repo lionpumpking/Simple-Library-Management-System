@@ -1,0 +1,15 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE mapper-->
+<!--        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"-->
+<!--        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+
+
+<!--<mapper namespace="com.myproject.my_demo.demos.mapper.UserMapper">-->
+<!--    &lt;!&ndash; 这里可以添加自定义的SQL语句 &ndash;&gt;-->
+<!--    <select id="getBySex" resultType="com.myproject.my_demo.demos.model.User">-->
+<!--        select *from user where sex = #{sex}-->
+<!--    </select>-->
+<!--</mapper>-->
+
+
+
